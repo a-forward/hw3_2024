@@ -179,6 +179,7 @@ background-size: cover;
  /* Step 8: Write the selector/rule property to style the .text-block class. */
 .text-block{
   align-content: center;
+  align-items: center;
   text-align: center;
 }
 
